@@ -1,6 +1,6 @@
 # Custom `.zshrc` Configuration
 
-This repository contains a custom `.zshrc` file configured to use **Oh My Posh** with the **Powerlevel10k** theme. This configuration enhances your terminal experience on Ubuntu with advanced visual elements and includes a unique feature for managing aliases.
+This repository contains a custom `.zshrc` file configured to use **Oh My Zsh** with the **Powerlevel10k** theme. This configuration enhances your terminal experience on Ubuntu with advanced visual elements and includes a unique feature for managing aliases.
 
 ## Preview
 
@@ -8,8 +8,8 @@ This repository contains a custom `.zshrc` file configured to use **Oh My Posh**
 
 ## Features
 
-- **Oh My Posh:** A prompt renderer that provides a beautiful and customizable command prompt.
-- **Powerlevel10k:** A theme for Oh My Posh that offers a fast and feature-rich prompt with advanced visual elements.
+- **Oh My Zsh:** A prompt renderer that provides a beautiful and customizable command prompt.
+- **Powerlevel10k:** A theme for Oh My Zsh that offers a fast and feature-rich prompt with advanced visual elements.
 - **Alias Management:** A custom setup that allows you to view all defined aliases and their descriptions by executing the `aliash` command.
 
 ## Installation Instructions
@@ -21,8 +21,8 @@ This repository contains a custom `.zshrc` file configured to use **Oh My Posh**
      sudo apt install zsh
      ```
 
-2. **Download and Install Oh My Posh:**
-   - Follow the installation instructions for Oh My Posh from the [official documentation](https://ohmyposh.dev/docs/installation).
+2. **Download and Install Oh My Zsh:**
+   - Follow the installation instructions for Oh My Zsh from the [official documentation](https://ohmyz.sh/).
 
 3. **Install Powerlevel10k Theme:**
    - Follow the [Powerlevel10k installation instructions](https://github.com/romkatv/powerlevel10k#oh-my-zsh) to set up the theme.
@@ -52,8 +52,8 @@ This repository contains a custom `.zshrc` file configured to use **Oh My Posh**
      mv ~/.zshrc.backup ~/.zshrc
      ```
 
-   - For more information on Oh My Posh and Powerlevel10k, check out their respective documentation:
-     - [Oh My Posh Documentation](https://ohmyposh.dev/docs)
+   - For more information on Oh My Zsh and Powerlevel10k, check out their respective documentation:
+     - [Oh My Zsh Documentation](https://github.com/ohmyzsh/ohmyzsh/wiki)
      - [Powerlevel10k Documentation](https://github.com/romkatv/powerlevel10k)
 
 Enjoy your enhanced terminal experience!

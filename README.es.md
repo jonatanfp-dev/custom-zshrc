@@ -1,6 +1,6 @@
 # Configuración Personalizada de `.zshrc`
 
-Este repositorio contiene un archivo `.zshrc` personalizado configurado para usar **Oh My Posh** con el tema **Powerlevel10k**. Esta configuración mejora tu experiencia en la terminal en Ubuntu con elementos visuales avanzados e incluye una función única para gestionar alias.
+Este repositorio contiene un archivo `.zshrc` personalizado configurado para usar **Oh My Zsh** con el tema **Powerlevel10k**. Esta configuración mejora tu experiencia en la terminal en Ubuntu con elementos visuales avanzados e incluye una función única para gestionar alias.
 
 ## Vista Previa
 
@@ -8,8 +8,8 @@ Este repositorio contiene un archivo `.zshrc` personalizado configurado para usa
 
 ## Características
 
-- **Oh My Posh:** Un renderizador de prompts que proporciona un prompt hermoso y personalizable.
-- **Powerlevel10k:** Un tema para Oh My Posh que ofrece un prompt rápido y rico en funciones con elementos visuales avanzados.
+- **Oh My Zsh:** Un renderizador de prompts que proporciona un prompt hermoso y personalizable.
+- **Powerlevel10k:** Un tema para Oh My Zsh que ofrece un prompt rápido y rico en funciones con elementos visuales avanzados.
 - **Gestión de Alias:** Una configuración personalizada que te permite ver todos los alias definidos y sus descripciones ejecutando el comando `aliash`.
 
 ## Instrucciones de Instalación
@@ -21,8 +21,8 @@ Este repositorio contiene un archivo `.zshrc` personalizado configurado para usa
      sudo apt install zsh
      ```
 
-2. **Descarga e Instala Oh My Posh:**
-   - Sigue las instrucciones de instalación de Oh My Posh en la [documentación oficial](https://ohmyposh.dev/docs/installation).
+2. **Descarga e Instala Oh My Zsh:**
+   - Sigue las instrucciones de instalación de Oh My Zsh en la [documentación oficial](https://ohmyz.sh/).
 
 3. **Instala el Tema Powerlevel10k:**
    - Sigue las [instrucciones de instalación de Powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh) para configurar el tema.
@@ -52,8 +52,8 @@ Este repositorio contiene un archivo `.zshrc` personalizado configurado para usa
      mv ~/.zshrc.backup ~/.zshrc
      ```
 
-   - Para más información sobre Oh My Posh y Powerlevel10k, consulta su documentación:
-     - [Documentación de Oh My Posh](https://ohmyposh.dev/docs)
+   - Para más información sobre Oh My Zsh y Powerlevel10k, consulta su documentación:
+     - [Documentación de Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki)
      - [Documentación de Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ¡Disfruta de tu experiencia mejorada en la terminal!
