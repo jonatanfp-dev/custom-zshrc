@@ -34,7 +34,7 @@ This repository contains a custom `.zshrc` file configured to use **Oh My Zsh** 
      ```
    - Restart your terminal or source the `.zshrc` file to apply the changes:
      ```bash
-     source ~/.zshrc
+     source ~/.zshrc or omz reload
      ```
 
 5. **Using the Alias Feature:**

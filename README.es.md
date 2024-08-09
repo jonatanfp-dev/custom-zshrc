@@ -34,7 +34,7 @@ Este repositorio contiene un archivo `.zshrc` personalizado configurado para usa
      ```
    - Reinicia tu terminal o aplica los cambios con:
      ```bash
-     source ~/.zshrc
+     source ~/.zshrc o omz reload
      ```
 
 5. **Uso de la Función de Alias:**
