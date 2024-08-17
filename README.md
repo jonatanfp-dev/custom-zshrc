@@ -1,6 +1,6 @@
 # Custom `.zshrc` Configuration | Configuración Personalizada de `.zshrc` 
 
-## Preview
+## 🔍 Preview
 
 ![Terminal Example](assets/example.png)
 
