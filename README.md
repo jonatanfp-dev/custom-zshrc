@@ -4,7 +4,7 @@
 
 ![Terminal Example](assets/example.png)
 
-## Languages
+## 🌍 Languages
 
 - **[English Documentation](README.en.md)**: Click here to access the English version of the documentation.
 
