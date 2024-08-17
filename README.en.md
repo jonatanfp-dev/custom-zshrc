@@ -2,16 +2,6 @@
 
 This repository contains a custom `.zshrc` file configured to use **Oh My Zsh** with the **Powerlevel10k** theme. This configuration enhances your terminal experience on Ubuntu with advanced visual elements and includes a unique feature for managing aliases.
 
-## Preview
-
-![Terminal Example](assets/example.png)
-
-## Features
-
-- **Oh My Zsh:** A prompt renderer that provides a beautiful and customizable command prompt.
-- **Powerlevel10k:** A theme for Oh My Zsh that offers a fast and feature-rich prompt with advanced visual elements.
-- **Alias Management:** A custom setup that allows you to view all defined aliases and their descriptions by executing the `aliash` command.
-
 ## Installation Instructions
 
 1. **Install Zsh:**

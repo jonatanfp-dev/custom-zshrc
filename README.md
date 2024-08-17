@@ -1,6 +1,10 @@
 # Custom `.zshrc` Configuration | Configuración Personalizada de `.zshrc` 
 
+## Preview
+
 ![Terminal Example](assets/example.png)
+
+## Languages
 
 - **[English Documentation](README.en.md)**: Click here to access the English version of the documentation.
 
